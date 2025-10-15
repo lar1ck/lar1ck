@@ -96,6 +96,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lar1ck/lar1ck/output/snake.yaml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lar1ck/lar1ck/output/snake.svg" alt="Snake animation" />
 
 ###
