@@ -21,6 +21,9 @@
   <a href="https://dribbble.com/arrick" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
   </a>
+  <a href="https://open.spotify.com/user/3165c3lzwhoicdv2kqcrtfb66cey" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spotify logo" />
+  </a>
 </div>
 
 ###
