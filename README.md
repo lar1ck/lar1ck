@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋, I'm Shyaka Ngango</h2>
 
 ###
@@ -30,6 +36,24 @@
 ###
 
 <p align="left">I'm from the Rwanda .I'm a huge fan of Node.js, TypeScript, Python, and  writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found exercising 🏋️, swimming 🌊, and learn random interesting things, (ended up loving astrophysics😂😂)</p>
+
+###
+
+<h4 align="left">🌱 I’m currently learning</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h4 align="left"><💻> Tech Stack</h4>
 
 ###
 
