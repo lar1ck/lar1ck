@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm from the Rwanda .I'm a huge fan of Node.js, TypeScript, Python, and  writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found exercising 🏋️, swimming 🌊, and learning random interesting things, (ended up loving astrophysics😂😂)</p>
+<p align="left">I'm from the Rwanda .I'm a huge fan of Node.js, TypeScript, Python, and  writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found exercising 🏋️, swimming 🌊, and learning random interesting things,</p>
 
 ###
 
